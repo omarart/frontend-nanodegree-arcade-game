@@ -1,5 +1,5 @@
 # Arcade Game
-***** 
+ 
 A challenge to build a game of Udacity FRONREND Nanodegree.
 
 ### How To Run
