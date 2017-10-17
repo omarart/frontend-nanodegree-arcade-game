@@ -2,9 +2,11 @@
  
 A challenge to build a game of Udacity FRONREND Nanodegree.
 
+
 ### How To Run
 *****
 opening index.html should load the game and enjoying.
+
 
 ### How to Play
 ***** 
